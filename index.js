@@ -3503,6 +3503,8 @@
       }
       return Base64.decode(a);
     };
+
+    return Base64;
   })();
   // ASN.1 JavaScript decoder
   // Copyright (c) 2008-2013 Lapo Luchini <lapo@lapo.it>
